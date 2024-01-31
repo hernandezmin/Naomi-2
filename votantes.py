@@ -44,5 +44,5 @@ if len(dpi)==13:
 
         confirmacion= input("Desea confirmar sus votos?")
 
-        if confirmacion== "Si":
-            print("Su voto a sido confirmando")
+        if confirmacion== "si":
+            print("Su voto a sido confirmando exitosamente")
